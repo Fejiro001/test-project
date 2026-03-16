@@ -45,6 +45,13 @@ footer {
 }
 
 footer p{
+<<<<<<< HEAD
     font-size: small;
     color: beige;
 }
+=======
+    font-size: medium;
+    color: rgb(18, 18, 15);
+    text-align: center;
+}
+>>>>>>> 7314125 (update the styling of footer)
