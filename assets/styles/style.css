@@ -6,6 +6,7 @@ footer {
 }
 
 footer p{
-    font-size: small;
-    color: beige;
+    font-size: medium;
+    color: rgb(18, 18, 15);
+    text-align: center;
 }
