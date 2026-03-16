@@ -21,6 +21,7 @@ header {
 
 .app-name {
   font-size: 2rem;
+  font-weight: 600;
   line-height: 60px;
 }
 
@@ -32,6 +33,7 @@ header {
   text-decoration: none;
   color: #d0c7c7;
   font-size: 1.5rem;
+  transition: all 0.25s ease-in-out;
 }
 
 .navigation-links a:hover {
