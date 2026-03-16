@@ -1,1 +1,11 @@
 @import "reset.css";
+
+footer {
+    background-color: antiquewhite;
+    height: 60px
+}
+
+footer p{
+    font-size: small;
+    color: beige;
+}
