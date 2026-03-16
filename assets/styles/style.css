@@ -40,6 +40,47 @@ header {
     color: #fff;
 }
 
+
+.hero {
+    height: 50rem;
+    width: 100%;
+    background: url("../media/background.jpg") no-repeat center/cover rgba(18, 18, 15, 0.5);
+}
+
+.hero,
+.content {
+    display: grid;
+    place-items: center;
+    color: #fff;
+}
+
+.content {
+    gap: 1rem;
+}
+
+.content h2 {
+    font-size: 4.2rem;
+}
+
+.content p {
+    font-size: 2rem;
+}
+
+.content button {
+    background-color: #fff;
+    color: #022832;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-top: 2rem;
+    transition: all 0.3s ease-in-out;
+    width: 13rem;
+}
+
+.content button:hover {
+    width: 18rem;
+}
+
 footer {
     background-color: antiquewhite;
     height: 60px;
