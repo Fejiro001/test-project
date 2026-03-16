@@ -40,7 +40,6 @@ header {
     color: #fff;
 }
 
-
 .hero {
     height: 50rem;
     width: 100%;
@@ -82,7 +81,7 @@ header {
 }
 footer {
     background-color: rgb(31, 54, 68);
-    height: 60px
+    height: 60px;
 }
 
 footer p {
