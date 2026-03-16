@@ -1,51 +1,51 @@
 @import "reset.css";
 
 .container {
-  width: min(100% - 30px, 1080px);
-  margin-inline: auto;
+    width: min(100% - 30px, 1080px);
+    margin-inline: auto;
 }
 
 .header-container,
 .navigation-links {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3rem;
 }
 
 header {
-  height: 60px;
-  background-color: #1f1e21;
-  color: #fff;
+    height: 60px;
+    background-color: #1f1e21;
+    color: #fff;
 }
 
 .app-name {
-  font-size: 2rem;
-  font-weight: 600;
-  line-height: 60px;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 60px;
 }
 
 .navigation-links {
-  list-style: none;
+    list-style: none;
 }
 
 .navigation-links a {
-  text-decoration: none;
-  color: #d0c7c7;
-  font-size: 1.5rem;
-  transition: all 0.25s ease-in-out;
+    text-decoration: none;
+    color: #d0c7c7;
+    font-size: 1.5rem;
+    transition: all 0.25s ease-in-out;
 }
 
 .navigation-links a:hover {
-  color: #fff;
+    color: #fff;
 }
 
 footer {
     background-color: antiquewhite;
-    height: 60px
+    height: 60px;
 }
 
-footer p{
+footer p {
     font-size: medium;
     color: rgb(18, 18, 15);
     text-align: center;
