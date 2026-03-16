@@ -39,3 +39,14 @@ header {
 .navigation-links a:hover {
   color: #fff;
 }
+
+footer {
+    background-color: antiquewhite;
+    height: 60px
+}
+
+footer p{
+    font-size: medium;
+    color: rgb(18, 18, 15);
+    text-align: center;
+}
