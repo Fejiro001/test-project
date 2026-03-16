@@ -80,14 +80,13 @@ header {
 .content button:hover {
     width: 18rem;
 }
-
 footer {
-    background-color: antiquewhite;
-    height: 60px;
+    background-color: rgb(31, 54, 68);
+    height: 60px
 }
 
 footer p {
     font-size: medium;
-    color: rgb(18, 18, 15);
+    color: #fff;
     text-align: center;
 }
